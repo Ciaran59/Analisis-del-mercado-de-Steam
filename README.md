@@ -29,7 +29,7 @@ Tras analizar la correlación entre el precio y las recomendaciones, se obtuvo u
 La relación entre precio y calidad es practicamente nula, esto es visto en mayor medida en este periodo, ya que entre 2021 y 2025, hemos visto el auge de los "hits virales" (muchas veces gratuitos o muy baratos) que, gracias a redes sociales y streamers, logran millones de recomendaciones, superando en visibilidad a grandes producciones de 70 USD que no logran conectar con la comunidad.
 <img width="1017" height="1011" alt="image" src="https://github.com/user-attachments/assets/97cfe43d-2bd8-4802-84d7-9ee3f1c5a974" />
 
-## Cómo ejecutar el notebook?## 
+## Cómo ejecutar el notebook?
 Clona el repositorio.
 
 Asegúrate de tener instalado pandas, seaborn y matplotlib.
